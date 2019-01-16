@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top-bar{
+    background-color: black;
+}
+.top-number p{
+  margin: 0
+}
+
+.social{
+  text-align: right;
+    margin-top: 5px;
+}
+.social-share li {
+    float: left;
+    display: inline-block;
+}
+.social-share{
+ display: inline-block;
+ margin-right: 30px;
+ list-style: none;
+ padding: 0;
+ margin: 0;
+}
+
+ul.social-share li a {
+  display: inline-block;
+  color: #fff;
+  background: #404040;
+  width: 25px;
+  height: 25px;
+    margin-left: 10px;
+  text-align: center;
+  border-radius: 2px;
+}
+
+
+.button1 {
+    
+    padding: 10px 24px;
+}
+
+ul.social-share li a:hover {
+  background: #F95681;
+  color: #fff;
+}
+
+
+@media screen and (max-width: 360px) {
+    .top-number{
+  color: #fff;
+  margin-left: 20px;
+    margin-top: 5px;
+}
+    .social{
+  text-align: right;
+    margin-top: 10px;
+}
+    
+  ul.social-share li a {
+  display: inline-block;
+  color: #fff;
+  background: #404040;
+  width: 25px;
+  height: 25px;
+    margin-left: 5px;
+  text-align: center;
+  border-radius: 2px;
+}    
+    
+}
+
+.logo h1{
+    color: #F95681;
+}
+
+
+
+  /*product */
+
+.product p{
+    background-color: #E4E4E4;
+    height: 50px;
+  padding-top: 15px;
+    padding-left: 20px;
+}
+
+
+.contactform p{
+   
+}
+.contactform h1{
+    
+}
+.contactform h4{
+    font-size: 13px;
+    color: black;
+}
+
+.conatct{
+    margin-top: 50px;
+}
+
+.textarea{
+    margin-top: 30px;
+}
+
+textarea.form-control {
+    height: 200px;
+}
+
+.map{
+    margin-left: -15px;
+}

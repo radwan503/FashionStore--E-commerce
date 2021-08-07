@@ -1,4 +1,4 @@
-# FashionStore---Simple-E-commerce-Website
+# FashionStore--E-commerce
 
 >FashionStore Multipurpose Responsive Template Specially Design For the E-commerce Store like Fashion, Clothes,T-shirt, Shoes, Fashion Store, Jewellery, Sportswear, Watch, Bag, Night Wear, Food, Designer, Cosmetic, Lingerie, Multipurpose theme etc. This Template is looking good with fresh colors. It comes with extremely beautiful design for your business website.<br>
 
